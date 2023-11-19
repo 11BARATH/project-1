@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product</title>
+</head>
+<body>
+    <a href="indexe.html">Home</a>
+    <a href="pro.html">Products</a>
+    <a href="pri.html">pricing</a>
+    <a href="sol.html">solution</a>
+    <a href="https://www.swiggy.com/" target="blank">company</a>
+    <h3>
+        <q>
+            Rain or shine, it's a fine time to dine.
+        </q>
+    </h3>
+    <h3>
+        <b>List of items</b>
+    </h3>
+    <ol>
+        <li>
+            dosa
+        </li>
+        <li>idly</li>
+        <li>poori</li>
+        <li>vada</li>
+        <li>pongal</li>
+        <li>tea</li>
+        <li>lemontea</li>
+        <li>coffee</li>
+        <li>browni cake</li>
+        <li>lava cake</li>
+        <li>icecream</li>
+        
+
+    </ol>
+</body>
+</html>
