@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>barath</title>
+</head>
+<body>
+    <h1>
+        Toast
+    </h1>
+    <a href="indexe.html">Home</a>
+    <a href="pro.html">Products</a>
+    <a href="pri.html">pricing</a>
+    <a href="sol.html">solution</a>
+    <a href="https://www.swiggy.com/" target="blank">company</a>
+    <br/>
+    <a href="pri.html#desert">don't miss our desert</a>
+
+    <h3>
+        <q>
+            Rain or shine, it's a fine time to dine.
+        </q>
+    </h3>
+    <h3>
+        <i>"Welcome to Toast, where culinary excellence meets warm hospitality. Immerse yourself in a culinary journey that transcends the ordinary. Our restaurant is a celebration of flavors, where each dish is meticulously crafted to tantalize your taste buds and ignite your senses.
+</i>
+
+    </h3>
+</body>
+</html>
