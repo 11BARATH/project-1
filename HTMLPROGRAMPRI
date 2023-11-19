@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food</title>
+</head>
+<body>
+    <a href="indexe.html">Home</a>
+    <a href="pro.html">Products</a>
+    <a href="pri.html">pricing</a>
+    <a href="sol.html">solution</a>
+    <a href="https://www.swiggy.com/" target="blank">company</a>
+    <h3>
+        <q>
+            Rain or shine, it's a fine time to dine.
+        </q>
+    </h3>
+    
+    <h2><b>TIFFEN</b></h2> 
+    <ol type="I">
+       
+        <li><del>Dosa = 84</del><ins>Dosa =100</ins></li>
+        <li>idly(2) =30</li>
+        <li>vada(1) =20</li>
+
+    </ol>
+    <h2><b>DRINK</b></h2> 
+    <ol type="I">
+        <li>Tea =18
+        </li>
+        <li>Coffee =29</li>
+        <li>Lemon tea=20</li>
+    </ol>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <a href="indexe.html">Home</a>
+    <a href="pro.html">Products</a>
+    <a href="pri.html">pricing</a>
+    <a href="sol.html">solution</a>
+    <a href="https://www.swiggy.com/" target="blank">company</a>
+
+    <h2 id="desert"><b>DESSERT</b></h2>
+    <ol type="I">
+        <li>
+            Browni =159
+        </li>
+        <li>choco lava=119</li>
+
+    </ol>
+
+</body>
+</html>
