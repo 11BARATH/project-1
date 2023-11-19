@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="indexe.html">Home</a>
+    <a href="pro.html">Products</a>
+    <a href="pri.html">pricing</a>
+    <a href="sol.html">solution</a>
+    <a href="https://www.swiggy.com/" target="blank">company</a>
+    
+    <h3>
+        <q>
+            Rain or shine, it's a fine time to dine.
+        </q>
+    </h3>
+    <p>
+        please contact our restaurant if you face any problem in food or service
+        <br/>
+        Contact no :123456789
+        <br/>
+        <a href="mailto:toastab@gmail.com">toastab@gmail.com</a>
+    </p>
+</body>
+</html>
